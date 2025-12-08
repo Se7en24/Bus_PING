@@ -1,1 +1,4 @@
 data/
+myenv/
+runs/
+*.avi
